@@ -1,0 +1,60 @@
+CRITICAL - 2024-12-21 00:02:56 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login/indexlogin.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/indexlogin.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login/indexlogin', [], true)
+ 3 APPPATH\Controllers\indexlogin.php(9): view('login/indexlogin')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\indexlogin->Mindexlogin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\indexlogin))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-21 00:03:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login/indexlogin.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/indexlogin.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login/indexlogin', [], true)
+ 3 APPPATH\Controllers\indexlogin.php(9): view('login/indexlogin')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\indexlogin->Mindexlogin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\indexlogin))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-21 00:03:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login/indexlogin.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/indexlogin.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login/indexlogin', [], true)
+ 3 APPPATH\Controllers\indexlogin.php(9): view('login/indexlogin')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\indexlogin->Mindexlogin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\indexlogin))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-21 00:03:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login/indexlogin.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/indexlogin.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login/indexlogin', [], true)
+ 3 APPPATH\Controllers\indexlogin.php(9): view('login/indexlogin')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\indexlogin->Mindexlogin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\indexlogin))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-21 00:03:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login/indexlogin.php"
+[Method: GET, Route: login]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login/indexlogin.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login/indexlogin', [], true)
+ 3 APPPATH\Controllers\indexlogin.php(9): view('login/indexlogin')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\indexlogin->Mindexlogin()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\indexlogin))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
